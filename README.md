@@ -11,7 +11,7 @@ Welcome to the **Crossy Road Remake**! This is a browser-based recreation of the
 
 ## Demo
 
-You can try the live version of the game here: [Crossy Road Remake Demo](https://yourdomain.com)
+You can try the live version of the game here: [Crossy Road Remake Demo](https://gistpreview.github.io/?3b6655ecc0978360e49eaf41dbf2e52a)
 
 ## Tech Stack
 
